@@ -1,0 +1,9 @@
+{
+  "name": "advent-of-code-2016",
+  "version": "1.0.0",
+  "description": "Solutions for Advent of Code 2016",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Adam Risberg",
+  "license": "ISC"
+}
