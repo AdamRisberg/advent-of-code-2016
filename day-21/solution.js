@@ -4,7 +4,7 @@ const input = "abcdefgh";
 const scrambledInput = "fbgdceah";
 
 const part1 = scramble(input, rawInstructions);
-console.log(part1);
+console.log(`Part 1: ${part1}`);
 
 const part2 = scramble(scrambledInput, rawInstructions, true);
-console.log(part2);
+console.log(`Part 2: ${part2}`);
